@@ -16,5 +16,5 @@ end
 
 def using_shift(array)
   array.shift
-  return array
+  array
 end
